@@ -21,6 +21,7 @@ namespace Nuclear.ProjectFolderIcons
             new("Resource", GetDefaultTextureFor("Resource")),
             new("Scene", GetDefaultTextureFor("Scene")),
             new("Script", GetDefaultTextureFor("Script")),
+            new("Code", GetDefaultTextureFor("Script")),
             new("Setting", GetDefaultTextureFor("Setting")),
             new("Shader", GetDefaultTextureFor("Shader")),
             new("Sprite", GetDefaultTextureFor("Sprite")),
