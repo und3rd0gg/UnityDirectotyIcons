@@ -25,6 +25,9 @@ namespace Nuclear.ProjectFolderIcons
             new("Shader", GetDefaultTextureFor("Shader")),
             new("Sprite", GetDefaultTextureFor("Sprite")),
             new("Texture", GetDefaultTextureFor("Texture")),
+            new("GTAP", GetDefaultTextureFor("GTAP")),
+            new("App", GetDefaultTextureFor("App")),
+            new("Packs", GetDefaultTextureFor("Packs")),
         };
 
         private const string PackageManagerIconPath = "Packages/com.nuclearband.projectfoldericons/Editor/Icons";
