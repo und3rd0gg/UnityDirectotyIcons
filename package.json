@@ -1,7 +1,7 @@
 {
   "name": "com.nuclearband.projectfoldericons",
   "displayName": "Nuclear Project Folder Icons",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Customize the icon of your folders in the Unity project browser",
   "keywords": ["icon", "folder", "unity", "project", "browser", "rainbowfolders", "nuclear"],
   "license": "MIT",
